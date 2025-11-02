@@ -7,7 +7,7 @@ Built using **HTML**, **CSS**, and **JavaScript**.
 - Responsive design  
 - Clean layout  
 - Simple and fast
-- 
+  
 👨‍💻 **Developer:** Usman Sharif  
 ⭐ Star this repo if you like it!
 
